@@ -1,4 +1,5 @@
 /* 
+* https://www.lambdatest.com/blog/automation-testing-with-selenium-javascript/
 step:
 1. Launch the browser
 2. Go to www.google.com
